@@ -42,7 +42,7 @@ body {
   background-color: var(--cyan);
   opacity: 0;
   border-radius: 10px;
-  background-image: url("/images/icon-view.svg");
+  background-image: url("./images/icon-view.svg");
   background-repeat: no-repeat;
   background-position: center;
 }
